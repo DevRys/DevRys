@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lalo</h1>
+<h1 align="center">Hi 👋, I'm Rys</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 
 # 💫 About Me:
